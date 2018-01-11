@@ -1,2 +1,2 @@
 # TrumpTweets
-Script to recieve a text each time an account tweets
+Script to get most recent tweets from an account
