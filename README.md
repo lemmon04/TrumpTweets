@@ -1,2 +1,2 @@
 # TrumpTweets
-Script to recieve a text each time Trump tweets
+Script to recieve a text each time an account tweets
